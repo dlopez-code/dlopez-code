@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**dlopez-code/dlopez-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Diego López
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+* Soy estudiante de 1er semestre de Ingeniería en Informática en UPIICSA, IPN
+* Actualmente estoy aprendiendo C y C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+C, C++
+
+## 🔥 GitHub stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dlopez-code&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+
