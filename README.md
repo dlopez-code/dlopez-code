@@ -2,7 +2,7 @@
 # Hola, soy Diego López
 
 ## 🚀 Sobre mí
-* Soy estudiante de 1er semestre de Ingeniería en Informática en UPIICSA, IPN
+* Estudiante de 1er semestre de Ingeniería en Informática en UPIICSA, IPN
 * Actualmente estoy aprendiendo C y C++
 
 ## 🛠 Skills
